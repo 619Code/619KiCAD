@@ -6,6 +6,8 @@ Cavalier Robotics KiCAD Codebase for the 2022 Robot
 
 [Reference Product](https://swyftrobotics.com/product/jst-connector-boards/)
 
+[Electronics CAD Models](https://grabcad.com/library/frc-control-components-1)
+
 ## Software Required
 [KiCAD](https://www.kicad.org/)
 
